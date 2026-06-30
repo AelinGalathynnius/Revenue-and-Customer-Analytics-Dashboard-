@@ -39,9 +39,8 @@ The dashboard helps track revenue trends, customer metrics, and sales performanc
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="<img width="809" height="534" alt="Screenshot_1" src="https://github.com/user-attachments/assets/7bec5a0c-e725-40b3-81f6-814800df3733" />
-  " alt="Sales Dashboard Preview" width="100%">
-</p>
+ <img width="809" height="534" alt="image" src="https://github.com/user-attachments/assets/9c86f285-051b-4649-b846-326a3842e368" />
+
 
 > Interactive Tableau dashboard displaying sales performance, profitability, product analysis, and KPI tracking.
 
